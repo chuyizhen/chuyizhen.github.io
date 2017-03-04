@@ -3,16 +3,16 @@
   
     
     <entry>
-      <title><![CDATA[Hello Hexo Blog]]></title>
-      <url>%2F2017%2F03%2F04%2Fhello-world%2F</url>
-      <content type="text"><![CDATA[Quick Start Create a new post1$ hexo new "My New Post" Step By Step1234$ hexo clean$ hexo generate$ hexo server $ hexo deploy 现在hexo简化了代码：1234$ hexo clean$ hexo g$ hexo s$ hexo d]]></content>
+      <title><![CDATA[致自己]]></title>
+      <url>%2F2017%2F03%2F04%2F%E8%87%B4%E8%87%AA%E5%B7%B1%2F</url>
+      <content type="text"><![CDATA[给自己的第一个Blog学习计划 1.完成JavaSE的视频学习，留下来的不能就这么忘了2.kindle读完设计模式，啃掉算法四中文译版3.3月末国际二级计算机java考试，找题目准备一下4.完成扇贝单词，翻译打卡，6月四级5.定期更新博客，记录学习的心得]]></content>
     </entry>
 
     
     <entry>
-      <title><![CDATA[致自己]]></title>
-      <url>%2F2017%2F03%2F04%2F%E8%87%B4%E8%87%AA%E5%B7%B1%2F</url>
-      <content type="text"><![CDATA[给自己的第一个Blog学习计划 1.完成JavaSE的视频学习，留下来的不能就这么忘了2.kindle读完设计模式，啃掉算法四中文译版3.3月末国际二级计算机java考试，找题目准备一下4.完成扇贝单词，翻译打卡，6月四级5.定期更新博客，记录学习的心得]]></content>
+      <title><![CDATA[Hello Hexo Blog]]></title>
+      <url>%2F2017%2F03%2F04%2Fhello-world%2F</url>
+      <content type="text"><![CDATA[Quick Start Create a new post1$ hexo new "My New Post" Step By Step1234$ hexo clean$ hexo generate$ hexo server $ hexo deploy 现在hexo简化了代码：1234$ hexo clean$ hexo g$ hexo s$ hexo d]]></content>
     </entry>
 
     
