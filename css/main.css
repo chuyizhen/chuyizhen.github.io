@@ -1806,7 +1806,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #bb28ff;
+  background: #829aff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2667,7 +2667,11 @@ img:hover {
   box-sizing: border-box;
   padding: 40px;
   width: 700px;
-  background: #fff;
+  background: rgba(255,255,255,0) none repeat scroll 0 0 !important;
+  background-color: #000;
+  filter: Alpha(50);
+  position: static;
+  *zoom: 1;
   min-height: 700px;
   box-shadow: initial;
   border-radius: initial;
