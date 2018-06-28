@@ -4,6 +4,13 @@
     
     <entry>
       <title><![CDATA[致自己]]></title>
+      <url>%2F2018%2F06%2F28%2Fmybaits%E4%B8%AD%E7%9A%84%23%7B%7D%E4%B8%8E%24%7B%7D%2F</url>
+      <content type="text"><![CDATA[mybaits中的#{}与${}1.#{}会将传入的数据都转化成字符串，并且加上双引号，如果代码是：1order by #&#123;id&#125; 如果传入的id值是100，sql进行解析时会解析成order by “100”,如果值是id,解析的结果是order by “id”； 2.\${}与#{}不同，会把传入的数据直接显示生成在sql中，传入相同的数据，sql会解析成order by 100,order by i； 3.\${}一般用来传入数据库对象，例如表名。 4.#{}方式能够很大程度防止sql注入，\${}无法防止注入； 5.一般来说能用#{}就不要用\${}。]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[致自己]]></title>
       <url>%2F2017%2F03%2F04%2F%E8%87%B4%E8%87%AA%E5%B7%B1%2F</url>
       <content type="text"><![CDATA[给自己的第一个Blog学习计划 1.完成JavaSE的视频学习，留下来的不能就这么忘了2.kindle读完设计模式，啃掉算法四中文译版3.3月末国际二级计算机java考试，找题目准备一下4.完成扇贝单词，翻译打卡，6月四级5.定期更新博客，记录学习的心得]]></content>
     </entry>
